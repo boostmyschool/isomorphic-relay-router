@@ -7,7 +7,7 @@ Adds server side rendering support to
 Installation
 ------------
 
-    npm install -S isomorphic-relay isomorphic-relay-router
+    npm install -S @boostmyschool/isomorphic-relay @boostmyschool/isomorphic-relay-router
 
 How to use
 ----------

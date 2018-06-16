@@ -2,6 +2,12 @@
 # yarn lockfile v1
 
 
+"@boostmyschool/isomorphic-relay@^0.7.3":
+  version "0.7.4"
+  resolved "https://registry.yarnpkg.com/@boostmyschool/isomorphic-relay/-/isomorphic-relay-0.7.4.tgz#211baf0b668a6bd1e4f1b7b9594e45fb148bd74a"
+  dependencies:
+    babel-runtime "^6.6.1"
+
 abbrev@1:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/abbrev/-/abbrev-1.1.1.tgz#f8f2c887ad10bf67f634f005b6987fed3179aac8"
@@ -1181,12 +1187,6 @@ isomorphic-fetch@^2.1.1:
   dependencies:
     node-fetch "^1.0.1"
     whatwg-fetch ">=0.10.0"
-
-isomorphic-relay@^0.7.3:
-  version "0.7.4"
-  resolved "https://registry.yarnpkg.com/isomorphic-relay/-/isomorphic-relay-0.7.4.tgz#40702fa50d172a69e4f60228aa6d1220c264ed2c"
-  dependencies:
-    babel-runtime "^6.6.1"
 
 iterall@1.0.2:
   version "1.0.2"

@@ -1,4 +1,4 @@
-import IsomorphicRelay from 'isomorphic-relay';
+import IsomorphicRelay from '@boostmyschool/isomorphic-relay';
 import IsomorphicQueryAggregator from './IsomorphicQueryAggregator';
 import render from './render';
 
